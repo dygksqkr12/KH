@@ -1,0 +1,38 @@
+package collection;
+
+import java.util.ArrayList;
+import java.util.HashSet;
+import java.util.List;
+import java.util.Set;
+
+public class StudentMain {
+
+	public static void main(String[] args) {
+		List<Student> list = new ArrayList<>();
+
+		Student s1 = new Student(10, "김윤수"); // 001
+		Student s2 = new Student(10, "김상훈"); // 002
+
+		list.add(s1);
+		list.add(s2);
+
+		System.out.println(s1.hashCode());
+		System.out.println(s2.hashCode());
+
+		System.out.println(list);
+
+        Set<Student> set = new HashSet<>();
+        
+        Student s3 = new Student(10, "김윤수");   //001
+        Student s4 = new Student(10, "김상훈");   //002
+        
+        set.add(s3);
+        set.add(s4);
+        
+        System.out.println(s3.hashCode());
+        System.out.println(s4.hashCode());
+        
+        System.out.println(set);
+	}
+
+}

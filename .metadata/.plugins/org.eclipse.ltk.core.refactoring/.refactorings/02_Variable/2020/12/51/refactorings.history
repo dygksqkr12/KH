@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;age&apos; in &apos;kh.java.type.PrimitiveTypeTest.test3()&apos; to &apos;AGE&apos;&#x0D;&#x0A;- Original project: &apos;02_Variable&apos;&#x0D;&#x0A;- Original element: &apos;kh.java.type.PrimitiveTypeTest.test3().age&apos;&#x0D;&#x0A;- Renamed element: &apos;age&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;age&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;kh.java.type{PrimitiveTypeTest.java[PrimitiveTypeTest~test3@age!814!832!824!826!I!16!false" name="AGE" references="true" stamp="1608375872402" version="1.0"/>
+</session>

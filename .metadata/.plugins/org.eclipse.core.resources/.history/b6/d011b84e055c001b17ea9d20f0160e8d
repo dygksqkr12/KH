@@ -1,0 +1,28 @@
+package student;
+
+public class Student1 {
+	private int snum;
+
+	public Student1() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+
+	public Student1(int snum) {
+		super();
+		this.snum = snum;
+	}
+
+	public int getSnum() {
+		return snum;
+	}
+
+	public void setSnum(int snum) {
+		this.snum = snum;
+	}
+
+	@Override
+	public String toString() {
+		return "Student1 [snum=" + snum + "]";
+	}
+}

@@ -1,0 +1,9 @@
+package student;
+
+public class StudentTest1 {
+
+	public static void main(String[] args) {
+		Student1 stu1 = new Student1(130000);
+	}
+
+}

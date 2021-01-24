@@ -1,0 +1,21 @@
+package ncs.test7;
+
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+
+public class ScoreFrame$ActionHandler extends ScoreFrame implements ActionListener{
+	
+	public void actionPerformed(ActionEvent e) {
+		num1= Integer.parseInt(jt1.getText()); // 자바 택스트 필드의  쓴 값을 상위 클래스 num1에 인트값으로 변환하여 넣는코드
+		num2= Integer.parseInt(jt2.getText()); // sql 택스트 필드에 쓴 값을 상위 클래스 num2에 인트값으로 변환하여 넣는코드
+		
+		int sum = num1+num2;; //인트값으로 바꾼 값을 합계 구한다
+		int avereage = sum/2;; //인트값으로 바꾼 값을 평균을 구한다.
+		
+		String a = Integer.toString(sum); //인트값으로 바꾼걸 textfield에 넣기 위해 스트링으로 변환한다
+		String b = Integer.toString(avereage);  //인트값으로 바꾼걸 textfield에 넣기 위해 스트링으로 변환한다
+		
+		jt3.setText(a); //합계 택스트 필드창에 셋팅한다
+		jt4.setText(b); //평균 택스트 필드창에 셋팅한다
+	}
+}

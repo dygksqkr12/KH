@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;kh.java.thread.CoundDown&apos; to &apos;CountDown&apos;&#x0D;&#x0A;- Original project: &apos;15_Thread&apos;&#x0D;&#x0A;- Original element: &apos;kh.java.thread.CoundDown&apos;&#x0D;&#x0A;- Renamed element: &apos;kh.java.thread.CountDown&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;CoundDown&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;kh.java.thread{CoundDown.java[CoundDown" matchStrategy="1" name="CountDown" qualified="false" references="true" similarDeclarations="false" stamp="1609928331341" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;d&apos; in &apos;kh.java.scanner.ScannerTest.test1()&apos; to &apos;dnum&apos;&#x0D;&#x0A;- Original project: &apos;02_Variable&apos;&#x0D;&#x0A;- Original element: &apos;kh.java.scanner.ScannerTest.test1().d&apos;&#x0D;&#x0A;- Renamed element: &apos;d&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;d&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;kh.java.scanner{ScannerTest.java[ScannerTest~test1@d!769!795!776!776!D!0!false" name="dnum" references="true" stamp="1608464847821" version="1.0"/>
+</session>

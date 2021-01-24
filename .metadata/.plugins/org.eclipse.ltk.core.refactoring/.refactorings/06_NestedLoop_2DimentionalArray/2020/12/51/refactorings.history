@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;kh.java.two.dimentional.array.JaggedArraytest&apos; to &apos;JaggedArrayTest&apos;&#x0D;&#x0A;- Original project: &apos;06_NestedLoop_2DimentionalArray&apos;&#x0D;&#x0A;- Original element: &apos;kh.java.two.dimentional.array.JaggedArraytest&apos;&#x0D;&#x0A;- Renamed element: &apos;kh.java.two.dimentional.array.JaggedArrayTest&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;JaggedArraytest&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;kh.java.two.dimentional.array{JaggedArraytest.java[JaggedArraytest" matchStrategy="1" name="JaggedArrayTest" qualified="false" references="true" similarDeclarations="false" stamp="1608104209591" textual="false" version="1.0"/>
+</session>
