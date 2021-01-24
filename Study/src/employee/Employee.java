@@ -39,9 +39,5 @@ public class Employee {
 		return salary / 10;
 	}
 
-	@Override
-	public String toString() {
-		return "Employee [salary=" + salary + "]";
-	}
 
 }
