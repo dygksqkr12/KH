@@ -1,0 +1,19 @@
+package e2018.exam2;
+
+public class Exam02 extends Person {
+	
+    public Exam02(String name, int age) {
+		super(name, age);
+	}
+    static String toString(Person[] a) {
+		return name + " " +age;
+    }
+
+
+	public static void main(String[] args) {
+        Person[] a = new Person[] { new Person("홍길동", 18), new Person("임꺽정", 21) };
+
+        System.out.println(toString(a));
+    }
+
+}

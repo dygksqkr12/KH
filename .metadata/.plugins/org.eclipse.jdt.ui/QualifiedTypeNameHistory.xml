@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="com.kh.java.other.OtherJava"/>
-    <fullyQualifiedTypeName name="java.sql.Date"/>
     <fullyQualifiedTypeName name="kh.java.oop.access.modifier.class_.Apple"/>
     <fullyQualifiedTypeName name="net.kh.member.model.Member"/>
     <fullyQualifiedTypeName name="kh.java.oop.access.modifier.field.Kiwi"/>
@@ -52,9 +50,14 @@
     <fullyQualifiedTypeName name="java.lang.Comparable"/>
     <fullyQualifiedTypeName name="collection.StdNoAscending"/>
     <fullyQualifiedTypeName name="java.util.Comparator"/>
-    <fullyQualifiedTypeName name="java.io.ObjectInputStream.GetField"/>
     <fullyQualifiedTypeName name="employee.Manager"/>
     <fullyQualifiedTypeName name="employee.Employee"/>
     <fullyQualifiedTypeName name="abstract_.UnderGraduateStudent"/>
     <fullyQualifiedTypeName name="abstract_.GraduateStudent"/>
+    <fullyQualifiedTypeName name="employee.Employee1"/>
+    <fullyQualifiedTypeName name="employee.Manager1"/>
+    <fullyQualifiedTypeName name="abstract_.UnderGraduateStudent1"/>
+    <fullyQualifiedTypeName name="abstract_.Student1"/>
+    <fullyQualifiedTypeName name="abstract_.GraduateStudent1"/>
+    <fullyQualifiedTypeName name="java.io.ObjectInputStream.GetField"/>
 </qualifiedTypeNameHistroy>
